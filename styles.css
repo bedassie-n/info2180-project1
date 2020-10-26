@@ -65,7 +65,7 @@ main{
 .overview-hero{
     display: grid;
     grid-area: 1 / 1 / 2 / 2 ;
-    background-color: rgb(216, 228, 250);
+    background-color: #E2E8F0;
 }
 
 .overview-hero div{
